@@ -1,39 +1,43 @@
-# PhazonBeyond
+<p align="center">
+  <img src="sce_sys/icon0.png" width="112" alt="PhazonBeyond crystal B icon">
+</p>
 
-![PhazonBeyond](PhazonBeyond-Hintergrund.png)
+<h1 align="center">PhazonBeyond</h1>
 
-An experimental project to bring Metroid Prime 4: Beyond to PlayStation 5 as native homebrew.
+<p align="center"><strong>Metroid Prime 4: Beyond on PlayStation 5</strong><br>
+An unofficial native PS5 homebrew project by BaZZtian.</p>
 
-[Status](#status-and-availability) · [Installation](#installation) · [Compatibility](#compatibility) · [Support](#support) · [Credits and licensing](#credits-and-licensing)
+![PhazonBeyond key art](PhazonBeyond-Hintergrund.png)
+
+<p align="center">
+  <a href="#availability">Availability</a> ·
+  <a href="#installation">Installation</a> ·
+  <a href="#compatibility">Compatibility</a> ·
+  <a href="#support">Support</a>
+</p>
 
 ## About
 
-| Project | Details |
+| | |
 | --- | --- |
-| Target platform | PlayStation 5 homebrew |
-| Original game | Metroid Prime 4: Beyond |
-| Game data | Research targets a user-supplied Nintendo Switch base-game PAK. Supported revisions are pending validation. |
-| Application identity | Pending |
-| Availability | In development |
+| **Platform** | PlayStation 5 homebrew |
+| **Original game** | Metroid Prime 4: Beyond |
+| **Availability** | Coming soon |
 
-## Status and availability
+## Availability
 
-The repository contains launcher artwork and display-name metadata under `sce_sys/`. Host-side archive and decompression checks have passed with synthetic inputs. Testing against game data and an installable PS5 release are pending.
-
-See the [changelog](CHANGELOG.md) and the [Prospero Store submission draft](release/PROSPERO-STORE.md).
+The first PS5 release is in preparation. Downloads will appear on [GitHub Releases](https://github.com/BaZZtian/PhazonBeyond/releases). A Prospero Store listing is planned.
 
 ## Installation
 
-Installation instructions will accompany the first validated PS5 release. The launcher artwork and metadata are available for preview.
+The first release will include installation instructions and the list of requirements.
 
 ## Compatibility
 
-Switch game revisions, PS5 firmware and loader compatibility are pending validation.
+Supported game editions, PS5 firmware and loaders will be listed with the first release. You will need your own copy of Metroid Prime 4: Beyond.
 
 ## Support
 
-Use [GitHub Issues](https://github.com/BaZZtian/PhazonBeyond/issues) for reproducible project issues. Include the revision, environment, steps and observed results. Keep game files, saves and credentials out of reports.
+Use [GitHub Issues](https://github.com/BaZZtian/PhazonBeyond/issues) to report a problem once the release is available. Include your app version, PS5 firmware and steps to reproduce the issue.
 
-## Credits and licensing
-
-See [NOTICE.txt](NOTICE.txt) for credits and the current licensing status.
+[Changelog](CHANGELOG.md) · [Credits](NOTICE.txt)
