@@ -1,0 +1,10 @@
+/.remote-venv/
+__pycache__/
+*.elf
+*.pak
+*.nsp
+*.xci
+/ps5-*.png
+/analog-*-test.png
+/controller-*.png
+/remote-play-check.png
