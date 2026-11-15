@@ -1,0 +1,4 @@
+PhazonBeyond is an unofficial project maintained by BaZZtian.
+Metroid Prime 4: Beyond is a Nintendo title.
+The repository contains PhazonBeyond presentation assets and metadata.
+Project licensing and third-party notices for an installable build are pending.
