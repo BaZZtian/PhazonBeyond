@@ -11,7 +11,6 @@ An unofficial native PS5 homebrew project by BaZZtian.</p>
 
 <p align="center">
   <a href="#availability">Availability</a> ·
-  <a href="#installation">Installation</a> ·
   <a href="#compatibility">Compatibility</a> ·
   <a href="#support">Support</a>
 </p>
