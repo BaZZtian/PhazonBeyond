@@ -11,7 +11,6 @@ An unofficial native PS5 homebrew project by BaZZtian.</p>
 
 <p align="center">
   <a href="#availability">Availability</a> ·
-  <a href="#installation">Installation</a> ·
   <a href="#compatibility">Compatibility</a> ·
   <a href="#support">Support</a>
 </p>
@@ -26,11 +25,9 @@ An unofficial native PS5 homebrew project by BaZZtian.</p>
 
 ## Availability
 
-The first PS5 release is in preparation. Downloads will appear on [GitHub Releases](https://github.com/BaZZtian/PhazonBeyond/releases). A Prospero Store listing is planned.
+No public download is available yet. Installation instructions and supported game editions will be listed with the first release.
 
-## Installation
-
-The first release will include installation instructions and the list of requirements.
+[Follow releases](https://github.com/BaZZtian/PhazonBeyond/releases)
 
 ## Compatibility
 
